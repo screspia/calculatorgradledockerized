@@ -1,0 +1,3 @@
+// To execute the calculatorgradledockerized
+
+docker run screspis/calculatorgradledockerized
